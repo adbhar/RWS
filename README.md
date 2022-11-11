@@ -33,7 +33,7 @@ When you click on nine dots left side of Dashboard you can see RWS menu tab in t
 
 # Run Database Script
 
-After installation, you need to run the script to your database.you get the db script in the folder :  
+After installation, you need to run the script to your respective database.you get the db script in the folder :  
 
 RWS >> DBScripts >>  RWSSchemaOnlyScriptConnector.sql
 
