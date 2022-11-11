@@ -31,6 +31,13 @@ Now In the NPM(Nuget Package Manager), Browse for RWS.Translator and install it
 After install and run the application, there is RWS tab menu showing on website
 When you click on nine dots left side of Dashboard you can see RWS menu tab in the Menu Section
 
+#Run Database Script
+
+After installation, you need to run the script to your database.you get the db script in the folder below:
+RWS >> DBScripts >>  RWSSchemaOnlyScriptConnector.sql
+
+Make sure to run the script successfully.
+
 #	Configuration  
               
 *	Username – textbox –  This information is shared by Product owner team (RWS team)
