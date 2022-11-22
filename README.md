@@ -31,6 +31,13 @@ Now In the NPM(Nuget Package Manager), Browse for RWS.Translator and install it
 After install and run the application, there is RWS tab menu showing on website
 When you click on nine dots left side of Dashboard you can see RWS menu tab in the Menu Section
 
+# Dependencies
+
+1.RestSharp  -   104.5.0
+2.Entity Framework   -   6.1.0
+3.PagedList.MVC   -   4.5.0
+4.Newtonsoft.Json   -   10.0.3
+
 # Run Database Script
 
 After installation, you need to run the script to your respective database.you get the db script in the folder :  
