@@ -17,3 +17,10 @@ Click Update and you're done . In Nuget explorer, you should now see an Episerve
 #	Install Package 
 
 Now In the NPM(Nuget Package Manager), Browse for RWS.Translator and install it
+
+# Dependencies
+
+1.RestSharp  -   104.5.0
+2.Entity Framework   -   6.1.0
+3.PagedList.MVC   -   4.5.0
+4.Newtonsoft.Json   -   10.0.3
